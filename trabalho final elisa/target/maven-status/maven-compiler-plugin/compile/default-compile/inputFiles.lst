@@ -1,0 +1,17 @@
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\CatalogoApplication.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\config\DataSeeder.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\controllers\CategoriaController.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\controllers\LoginController.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\controllers\ProdutoController.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\controllers\UsuarioController.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\models\CategoriaModel.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\models\ProdutoModel.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\models\UsuarioModel.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\repositories\CategoriaRepository.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\repositories\ProdutoRepository.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\repositories\UsuarioRepository.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\security\SecurityConfig.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\services\CategoriaService.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\services\CustomUserDetailsService.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\services\ProdutoService.java
+C:\Users\Aluno\Documents\Codex\2026-05-29\files-mentioned-by-the-user-trabalho\work\cleaned\trabalho final elisa\src\main\java\br\com\fatec\catalogo\services\UsuarioService.java
